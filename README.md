@@ -1,6 +1,7 @@
-Data: 13/09/2023
-Empresa: Abstergo Industries 
-Responsável: Flavio de Andrade
+<p>Data: 13/09/2023<p>
+<p>Empresa: Abstergo Industries </p>
+<p>Responsável: Flavio de Andrade Silva<p>
+
 
 ## Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Flavio de Andrade. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
